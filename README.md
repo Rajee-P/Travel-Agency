@@ -18,26 +18,6 @@ A full-stack web application for booking travel packages and managing bookings. 
 - MongoDB database for storing bookings.
 -  RESTful API endpoints
 
-## Project Structure
-
-Travel_booking_agency/
-│
-├─ frontend/ # React frontend
-│ ├─ src/
-│ │ ├─ components/ # Reusable UI components
-│ │ ├─ pages/ # Booking, MyBookings, Payment, etc.
-│ │ └─ App.js
-│ └─ package.json
-│
-├─ backend/ # Node.js + Express backend
-│ ├─ models/ # Mongoose models
-│ ├─ routes/ # API routes
-│ ├─ controllers/ # Route controllers
-│ ├─ index.js # Main server file
-│ └─ package.json
-│
-└─ README.md
-
 ## Getting Started
 
 ### Prerequisites
